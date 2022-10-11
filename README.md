@@ -12,8 +12,8 @@
 [![Medium](https://img.shields.io/badge/-pratamays-000000?style=flat-square&labelColor=gray&logo=medium&logoColor=white&link=https://pratamays.medium.com/)](https://pratamays.medium.com/)
 
 ### Stats
-<a href="https://github.com/evanezcent/evanezcent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evanezcent&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tama's GitHub Stats" />
+<a href="https://github.com/exvanezent/exvanezent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=exvanezent&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tama's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent&bg_color=1d1f21)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=exvanezent.exvanezent&bg_color=1d1f21)
