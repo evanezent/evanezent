@@ -8,7 +8,7 @@
 ### Reach Me
 [![Instagram](https://img.shields.io/badge/-@pratamays-E10098?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/pratamays/)
 [![Linkedin](https://img.shields.io/badge/-pratamays-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratamays/)](https://www.linkedin.com/in/pratamays/)
-[![Instagram](https://img.shields.io/badge/-evanezcent.tech-2bbc8a?style=flat-square&labelColor=gray&logo=internet-explorer&logoColor=white&link=https://evanezcent.tech/)](http://evanezcent.tech/)
+[![Instagram](https://img.shields.io/badge/-evanezcent.tech-2bbc8a?style=flat-square&labelColor=gray&logo=internet-explorer&logoColor=white&link=https://evanezent.my.id/)](https://evanezent.my.id/)
 [![Medium](https://img.shields.io/badge/-pratamays-000000?style=flat-square&labelColor=gray&logo=medium&logoColor=white&link=https://pratamays.medium.com/)](https://pratamays.medium.com/)
 
 ### Stats
